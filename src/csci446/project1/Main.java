@@ -16,7 +16,7 @@ public class Main {
         int numberOfTries = 5;
         int startingGraphSize = 10;
         int graphIncrementSize = 10;
-        int graphIncrementCount = 10;
+        int graphIncrementCount = 1;
 
         boolean[] skipTestSets = new boolean[graphIncrementCount + 1];
         //SET ANY TESTS YOU WANT TO SKIP TO TRUE
